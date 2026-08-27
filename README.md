@@ -1,24 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=210&section=header&text=Chethan%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20%7C%20Python%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Chethan%20N&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Development%20%7C%20Python%20%7C%20AI&descAlignY=58&descSize=18" width="100%"/>
 
 # Hi, I'm Chethan N 👋
 
-### I build practical software and experiment with AI.
+### Information Science & Engineering Student • Developer
 
-<p>
-  <a href="https://github.com/chevior">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chethan-n-500530310">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nchethan066@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I build **web applications, AI tools, and practical software**.
 
-<img src="https://komarev.com/ghpvc/?username=chevior&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+<br>
+
+<a href="https://github.com/chevior">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/chethan-n-500530310">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:nchethan066@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=chevior&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -28,72 +34,52 @@
 
 I'm an **Information Science & Engineering student at Presidency University, Bengaluru**.
 
-I enjoy building software that combines **web development, Python, AI, computer vision, and automation**.
+I enjoy building software with **Python, web technologies, AI, computer vision, and automation**.
 
-I learn by building complete projects, solving problems along the way, and improving the implementation as I go.
+I learn by building real projects and improving them through experimentation and problem solving.
 
 ```text
 Focus
-├── Full-Stack Development
-├── Python Development
-├── Artificial Intelligence
-├── Computer Vision
-└── Automation
-
-Currently Building
-├── FileHub
-└── Nexon AI / Phoebe
+─────
+Full-Stack Development
+Python Development
+Artificial Intelligence
+Computer Vision
+Automation
 ```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>📁 FileHub</h3>
+### 📁 FileHub
 
-<p>
-A full-stack file management application focused on file handling,
-authentication, APIs, storage management, and a modern web interface.
-</p>
+Full-stack file management platform built with a modern web stack.
 
-<p>
-<code>React</code>
-<code>TypeScript</code>
-<code>Vite</code>
+`React` `TypeScript` `Vite`
+`FastAPI` `PostgreSQL`
+
 <br>
-<code>FastAPI</code>
-<code>PostgreSQL</code>
-</p>
 
 <a href="https://github.com/chevior/FileHub">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Nexon AI — Phoebe</h3>
+### 🤖 Nexon AI — Phoebe
 
-<p>
-A Windows desktop AI assistant I'm developing with voice interaction,
-local AI, speech recognition, computer vision, code understanding,
-file analysis, and desktop automation.
-</p>
+A Windows desktop AI assistant combining local AI, voice interaction, speech recognition, vision, and automation.
 
-<p>
-<code>Python</code>
-<code>Ollama</code>
-<code>Whisper</code>
-<br>
-<code>Electron</code>
-<code>ElevenLabs</code>
-</p>
+`Python` `Ollama` `Whisper`
+`Electron` `ElevenLabs`
 
 </td>
 
@@ -103,78 +89,20 @@ file analysis, and desktop automation.
 
 <td width="50%" valign="top">
 
-<h3>🎬 CineVerseX</h3>
+### 🎬 CineVerseX
 
-<p>
-A full-stack movie discovery and ticket-booking application with
-authentication, theatre and show management, seat selection,
-ticket workflows, and administration features.
-</p>
+Full-stack movie discovery and ticket-booking application.
 
-<p>
-<code>Python</code>
-<code>Flask</code>
-<code>SQLAlchemy</code>
-<br>
-<code>SQLite</code>
-<code>JavaScript</code>
-</p>
+`Python` `Flask` `SQLite`
+`SQLAlchemy` `JavaScript`
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📈 Stock Price Predictor</h3>
+### 💡 More Coming Soon
 
-<p>
-A machine-learning project for analysing historical stock data
-and predicting future price trends.
-</p>
-
-<p>
-<code>Python</code>
-<code>Pandas</code>
-<code>Scikit-learn</code>
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>📧 Spam Email Classifier</h3>
-
-<p>
-A machine-learning application that classifies emails as spam
-or legitimate using text-processing and classification techniques.
-</p>
-
-<p>
-<code>Python</code>
-<code>Scikit-learn</code>
-<code>NLP</code>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>👁️ Computer Vision</h3>
-
-<p>
-Practical computer vision work involving automatic number plate
-recognition, object detection, OCR, and image processing.
-</p>
-
-<p>
-<code>Python</code>
-<code>OpenCV</code>
-<code>YOLO</code>
-<code>EasyOCR</code>
-</p>
+Currently focusing on improving my existing projects and building new things around **AI and full-stack development**.
 
 </td>
 
@@ -183,105 +111,85 @@ recognition, object detection, OCR, and image processing.
 
 ---
 
-# 🛠️ Technologies I Use
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark"/>
 
 <br><br>
 
-### Frontend
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 
 <br><br>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark"/>
 
 <br><br>
 
-### Database
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" />
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode&theme=dark"/>
 
 <br><br>
 
-### AI & Computer Vision
+### AI / Computer Vision
 
-<p>
-<code>Scikit-learn</code>
-<code>OpenCV</code>
-<code>YOLO</code>
-<code>EasyOCR</code>
-<code>Whisper</code>
-<code>Ollama</code>
-<code>ElevenLabs</code>
-</p>
+`Scikit-learn` · `OpenCV` · `YOLO` · `EasyOCR`
+`Whisper` · `Ollama` · `ElevenLabs`
 
 </div>
 
 ---
 
-# 🔧 What I Work On
+# 🧠 What I'm Interested In
 
 <table>
 <tr>
 
-<td width="33%" align="center">
-
-### 🌐 Web Development
-
-Building frontend and backend applications with modern web technologies.
-
-<br>
-
-`React`
-`TypeScript`
-`Vite`
-`Flask`
-`FastAPI`
-
-</td>
-
-<td width="33%" align="center">
+<td align="center" width="25%">
 
 ### 🤖 AI
 
-Experimenting with practical AI applications rather than only model theory.
-
-<br>
-
-`Machine Learning`
-`NLP`
-`LLMs`
-`Whisper`
-`Ollama`
+LLMs
+AI Applications
+Voice AI
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="25%">
 
-### 👁️ Computer Vision
+### 👁️ Vision
 
-Building and experimenting with systems that understand images and video.
+OpenCV
+YOLO
+OCR
 
-<br>
+</td>
 
-`OpenCV`
-`YOLO`
-`OCR`
-`ANPR`
+<td align="center" width="25%">
+
+### 🌐 Full Stack
+
+React
+TypeScript
+Python
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+FastAPI
+Flask
+Databases
 
 </td>
 
@@ -290,65 +198,31 @@ Building and experimenting with systems that understand images and video.
 
 ---
 
-# 🧠 Nexon AI — Phoebe
+# 🔥 Currently Building
 
-One of my main long-term projects is **Nexon AI**, a Windows desktop assistant with a character-driven interface called **Phoebe**.
+<div align="center">
 
-The goal is to make an assistant that can interact with the computer while keeping the user in control.
+### 🤖 Nexon AI / Phoebe
 
-### Current areas
+Working on a personal AI assistant with **local AI, voice interaction, computer vision and desktop automation**.
 
-* 🗣️ Voice input and speech recognition
-* 🌍 Multilingual transcription
-* 🇬🇧 English, Kannada & Kanglish transcription
-* 🎙️ AI voice synthesis
-* 🧠 Local LLM experimentation
-* 👁️ Computer vision
-* 💻 Code understanding
-* 📂 File searching and analysis
-* 🖥️ Desktop automation
-* 📄 PDF and document understanding
-* 🎨 Electron desktop interface
+<br>
 
-### The idea
+### 📁 FileHub
 
-> **An AI assistant should automate the computer without taking control away from the user.**
+Continuing development of a **full-stack file management platform**.
+
+</div>
 
 ---
 
 # 📚 Currently Learning
 
-I'm currently focusing on strengthening the foundations behind the projects I build.
+<div align="center">
 
-<table>
-<tr>
+`React` · `TypeScript` · `Backend Architecture` · `DSA` · `System Design`
 
-<td align="center" width="33%">
-
-### 🧩 Problem Solving
-
-Improving programming fundamentals and problem-solving skills.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 React & TypeScript
-
-Building cleaner and more maintainable frontend applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏗️ Backend
-
-Improving API design, database structure, and backend architecture.
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -356,70 +230,66 @@ Improving API design, database structure, and backend architecture.
 
 ### Full-Stack Developer Intern — StaxTech
 
-Worked on practical full-stack development and gained hands-on experience with frontend, backend, APIs, and web application workflows.
-
-**Focus:** Python · Web Development · APIs · Frontend · Backend
+Hands-on experience with **Python, web development, APIs, frontend and backend development**.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chevior&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=chevior&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevior&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevior&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chevior&theme=transparent&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-# 🎯 What I'm Working Toward
+# 🎯 What's Next?
 
 ```text
 Build better projects
         ↓
-Understand the systems behind them
+Learn from real problems
         ↓
-Improve my engineering fundamentals
+Improve my engineering skills
         ↓
-Build larger and more reliable software
+Build bigger things
 ```
 
-My long-term goal is simple:
-
-**Become a software engineer who can take an idea from concept to working product.**
+Currently working toward becoming a **strong software engineer capable of building complete products**.
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
-Have an interesting project, idea, or collaboration?
+# Let's Build Something 🚀
+
+Have an interesting idea or project?
+
+**Let's connect.**
 
 <br>
 
 <a href="https://github.com/chevior">
-<img src="https://img.shields.io/badge/GitHub-Chethan%20N-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/chethan-n-500530310">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:nchethan066@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 ### Build → Break → Understand → Improve
 
-<br>
-
-<sub>Thanks for visiting my profile 👋</sub>
+<sub>Thanks for visiting 👋</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%"/>
