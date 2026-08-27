@@ -1,126 +1,61 @@
 <div align="center">
 
-# Hi, I'm Chethan N 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=220&section=header&text=CHEthan%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20AI%20%7C%20Computer%20Vision&descAlignY=58&descSize=20" width="100%"/>
 
-### Full-Stack Developer · Python · AI · Computer Vision
+# Hey, I'm Chethan N 👋
 
-Building **web applications, AI tools, and software that solves real problems.**
+### I build software, experiment with AI, and turn ideas into working projects.
 
-[GitHub](https://github.com/chevior) · [LinkedIn](https://www.linkedin.com/in/chethan-n-500530310) · [Email](mailto:nchethan066@gmail.com)
+<br>
 
-</div>
+<a href="https://github.com/chevior">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/chethan-n-500530310">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:nchethan066@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<br><br>
 
-## 👨‍💻 About
-
-I'm an **Information Science & Engineering student at Presidency University, Bengaluru**, interested in building software across the full stack — from frontend and APIs to databases, AI, and deployment.
-
-- 🔭 Building **FileHub** and **Nexon AI / Phoebe**
-- 🤖 Exploring **LLMs, speech recognition, computer vision & automation**
-- 🌐 Building with **React, TypeScript, Python, Flask & FastAPI**
-- 🗄️ Working with **PostgreSQL, MySQL & SQLite**
-- 📚 Improving **Java, DSA, system design & backend development**
-- 💼 Open to **internships, collaborations & software opportunities**
-
----
-
-## 🚀 Featured Projects
-
-### 📁 [FileHub](https://github.com/chevior/FileHub)
-
-Full-stack file management platform with authentication, APIs, storage management and a modern web interface.
-
-`React` `TypeScript` `Vite` `FastAPI` `PostgreSQL`
-
-### 🤖 Nexon AI — Phoebe
-
-A Windows desktop AI assistant combining local AI, voice interaction, speech recognition, computer vision, code understanding and desktop automation.
-
-`Python` `Ollama` `Whisper` `Electron` `ElevenLabs`
-
-### 🎬 CineVerseX
-
-Full-stack movie discovery and ticket-booking platform with authentication, theatres, shows, seat selection and administration.
-
-`Python` `Flask` `SQLAlchemy` `SQLite` `JavaScript`
-
-### 📈 Stock Price Predictor
-
-Machine-learning application for analysing historical market data and predicting price trends.
-
-`Python` `Pandas` `Scikit-learn`
-
-### 📧 Spam Email Classifier
-
-NLP-based machine-learning application for detecting spam emails.
-
-`Python` `Scikit-learn` `NLP`
-
-### 👁️ Computer Vision
-
-Projects and experiments involving **ANPR, object detection, OCR and image processing**.
-
-`Python` `OpenCV` `YOLO` `EasyOCR`
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mysql,sqlite&theme=dark" />
-</p>
-
-### AI / Computer Vision
-
-`Machine Learning` `NLP` `OpenCV` `YOLO` `EasyOCR` `Whisper` `Ollama`
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,electron&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chevior&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevior&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<img src="https://komarev.com/ghpvc/?username=chevior&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🎯 Currently
+# 👨‍💻 Who Am I?
 
-**Building:** AI + Full-Stack applications  
-**Learning:** Java · DSA · System Design · Docker  
-**Interested in:** Software Engineering · AI · Backend · Computer Vision
+I'm an **Information Science & Engineering student at Presidency University, Bengaluru** who enjoys building complete software projects.
 
----
+My main interests are:
 
-<div align="center">
+- 🌐 **Full-Stack Development**
+- 🐍 **Python Development**
+- 🤖 **Artificial Intelligence**
+- 👁️ **Computer Vision**
+- ⚙️ **Automation**
+- 🧠 **Machine Learning**
 
-### Build → Break → Understand → Improve
+I prefer **learning by building** rather than just following tutorials.
 
-<sub>Thanks for visiting my profile 👋</sub>
+If I have an idea, I like taking it from:
 
-</div>
+```text
+Idea
+  ↓
+Design
+  ↓
+Code
+  ↓
+Backend + Database
+  ↓
+Integration
+  ↓
+Testing
+  ↓
+Working Software
