@@ -152,8 +152,10 @@ More builds in progress — check the pinned repos for the latest.
 ## ⟡ GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ChethanNgowda&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanNgowda&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChethanNgowda&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanNgowda&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
+
 </div>
 
 <div align="center">
