@@ -149,27 +149,15 @@ More builds in progress — check the pinned repos for the latest.
 
 <br/>
 
-## ⟡ GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChethanNgowda&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanNgowda&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChethanNgowda&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</div>
-
-<br/>
 
 ## ⟡ Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChethanNgowda-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED)](https://github.com/ChethanNgowda)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan%20N-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/chethan-n-500530310)
+
 [![Gmail](https://img.shields.io/badge/Email-nchethan066%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:nchethan066@gmail.com)
 
 <br/>
