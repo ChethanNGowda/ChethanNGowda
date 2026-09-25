@@ -2,165 +2,184 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:7C3AED&height=220&section=header&text=Chethan%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Full-Stack%20%7C%20AI%2FML%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" width="100%"/>
 
-<br/>
+### Python Developer · Full-Stack · AI/ML · Computer Vision
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChethanNgowda-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChethanNgowda)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan%20N-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-n-500530310)
-[![Email](https://img.shields.io/badge/Email-nchethan066%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nchethan066@gmail.com)
+<p>
+  <a href="https://github.com/ChethanNgowda">
+    <img src="https://img.shields.io/badge/GitHub-ChethanNgowda-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chethan-n-500530310">
+    <img src="https://img.shields.io/badge/LinkedIn-Chethan%20N-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nchethan066@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nchethan066-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
-<br/>
+---
 
-```
-$ whoami
-> Chethan N — B.Tech Information Science & Engineering
-> Presidency University, Bengaluru | SOCSE
-> Building real projects to learn real skills
-```
+## About Me
 
-<br/>
+I'm **Chethan N**, a B.Tech Information Science & Engineering student at **Presidency University, Bengaluru**.
 
-## ⟡ About
+I learn by building real projects — from full-stack web applications and Python backends to AI/ML and computer vision systems.
 
-I learn by shipping — picking a problem, building the thing, and fixing what breaks along the way. My work moves across **full-stack web development**, **Python backend systems**, and **AI/ML** — with a particular pull toward **computer vision** and **automation**.
+Currently focused on:
 
-Based in Bengaluru, India 🇮🇳
+* 🐍 Python development
+* 🌐 Full-stack web applications
+* 🤖 AI / Machine Learning
+* 👁️ Computer Vision
+* ⚙️ Backend systems & APIs
+* 🧠 Local AI and automation
 
-<br/>
+📍 Bengaluru, India
 
-## ⟡ Featured Projects
+---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## Featured Projects
 
 ### 🗂️ FileHub
-A full-stack file management platform with authentication, APIs, and a modern web interface.
 
-**Stack:** React · TypeScript · Vite · FastAPI · PostgreSQL
+A full-stack file management platform with authentication, APIs, file handling, and a modern web interface.
 
-[`↳ View Repository`](https://github.com/chevior/FileHub)
+**Tech:** React · TypeScript · Vite · FastAPI · PostgreSQL
 
-</td>
-<td width="50%" valign="top">
+🔗 [View Repository](https://github.com/chevior/FileHub)
+
+---
 
 ### 🎙️ Nexon AI — Phoebe
-A Windows desktop AI assistant *(in development)* — voice-driven, with local AI experimentation, vision, and file/PC automation, all with the user in control.
 
-**Stack:** Ollama · Whisper / faster-whisper · ElevenLabs · OpenCV · Electron
+A Windows desktop AI assistant currently in development, exploring local AI, voice interaction, computer vision, and PC/file automation.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech:** Electron · Python · Ollama · Whisper · OpenCV · ElevenLabs
+
+---
+
+### 💊 Counterfeit Pharmaceutical Detection
+
+An AI-powered computer vision system for screening pharmaceutical images and identifying potentially counterfeit products.
+
+**Tech:** Python · PyTorch · EfficientNet-B0 · OpenCV · Qwen3-VL · Ollama
+
+---
 
 ### 🎬 CineVerseX
-A movie discovery and ticket-booking platform — auth, theatre/show management, seat selection, and admin workflows.
 
-**Stack:** Python · Flask · SQLAlchemy · SQLite · HTML/CSS/JS
+A movie discovery and ticket-booking platform with authentication, theatre/show management, seat selection, and administration workflows.
 
-</td>
-<td width="50%" valign="top">
+**Tech:** Python · Flask · SQLAlchemy · SQLite · HTML · CSS · JavaScript
 
-<br/>
+---
 
-More builds in progress — check the pinned repos for the latest.
+## Tech Stack
 
-</td>
-</tr>
-</table>
+### Languages & Web
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
+</p>
 
-## ⟡ Tech Stack
+### Frontend
 
-**Languages & Web**
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
+### Backend & APIs
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postman"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite" />
+### Databases
 
-**Backend & APIs**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postman" />
+### AI / ML / Computer Vision
 
-**Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+`Machine Learning` · `Computer Vision` · `NLP` · `YOLO` · `OCR` · `Whisper` · `Ollama`
 
-**AI / ML / CV**
+### Tools
 
-<img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,electron"/>
+</p>
 
-`Machine Learning` · `NLP` · `YOLO / YOLOv8` · `EasyOCR` · `Whisper` · `Ollama` · `ElevenLabs`
+---
 
-**Tools**
+## Areas of Interest
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,electron" />
+| 🤖 AI & ML | 👁️ Computer Vision  | ⚙️ Software Systems    |
+| ---------- | -------------------- | ---------------------- |
+| Local AI   | Image Classification | Full-Stack Development |
+| LLMs       | Object Detection     | Backend APIs           |
+| Voice AI   | OCR                  | Desktop Applications   |
+| NLP        | Image Processing     | Automation             |
 
-<br/>
+---
 
-## ⟡ Areas of Interest
+## Currently Learning
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/System%20Design-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend%20Architecture-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
-**AI & Voice**
-- LLMs & Local AI
-- Voice AI
-- Speech recognition
+---
 
-</td>
-<td width="33%" valign="top">
+## Experience
 
-**Vision**
-- Computer vision
-- OCR
-- Object detection
+**Full-Stack Developer Intern — StaxTech**
 
-</td>
-<td width="33%" valign="top">
+Worked with:
 
-**Systems**
-- Full-stack development
-- Backend systems & APIs
-- Automation · Desktop apps
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ⟡ Currently Learning
-
-<img src="https://img.shields.io/badge/-React-7C3AED?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/-TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-7C3AED?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/-DSA-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/-System%20Design-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/-Backend%20Architecture-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/-PostgreSQL%20Design-7C3AED?style=flat-square&logo=postgresql&logoColor=white"/>
-
-<br/>
-
-## ⟡ Experience
-
-**Full-Stack Developer Intern** — StaxTech
 `Python` · `Web Development` · `APIs` · `Frontend` · `Backend`
 
-<br/>
+---
 
-
-## ⟡ Let's Connect
+## GitHub
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChethanNgowda-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED)](https://github.com/ChethanNgowda)
+<img src="https://github-readme-stats.vercel.app/api?username=ChethanNgowda&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=8B949E" height="170"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan%20N-0D1117?style=for-the-badge&logo=linkedin&logoColor=7C3AED)](https://www.linkedin.com/in/chethan-n-500530310)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanNgowda&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=8B949E" height="170"/>
 
-[![Gmail](https://img.shields.io/badge/Email-nchethan066%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=7C3AED)](mailto:nchethan066@gmail.com)
+</div>
 
-<br/>
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ChethanNgowda">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chethan-n-500530310">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nchethan066@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=ChethanNgowda&color=7C3AED&style=flat-square&label=Profile+Views"/>
 
