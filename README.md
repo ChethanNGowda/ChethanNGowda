@@ -151,17 +151,6 @@ Worked with:
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ChethanNgowda&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=8B949E" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChethanNgowda&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=8B949E" height="170"/>
-
-</div>
-
----
 
 ## Let's Connect
 
